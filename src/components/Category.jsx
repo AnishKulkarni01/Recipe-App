@@ -33,7 +33,7 @@ function Category() {
 
 const List=styled.div`
   display  :flex ;
-  justify-content: ;
+  justify-content: center;
 `;
 
 export default Category
